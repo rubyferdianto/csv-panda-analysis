@@ -4,7 +4,7 @@
     b. pip install numpy
     c. pip install faker
 2. Import CSV as DataFrame
-    a. new file: sample_sales_data_1M.csv
-    b. new file: Mall_Customers.csv
+    a. new file: csv/sample_sales_data_1M.csv
+    b. new file: csv/Mall_Customers.csv
 3. Analyst DataFrame using some standard objects from Pandas and Numpy
     
